@@ -1,0 +1,46 @@
+Privacy Policy
+
+Effective Date: May 15, 2025
+
+Introduction
+We value your privacy and are committed to protecting your personal information. This policy explains how we collect, use, and safeguard your data when you use our app.
+
+Information We Collect
+- Personal Information: We may collect your name, email address, and phone number.
+- KYC Documents: To verify your identity and prevent fraud, we may collect PAN number, Aadhaar number, and photographs of government-issued IDs.
+- UPI ID: Collected for processing reward redemptions securely.
+- Usage Data: We monitor app activity such as offer completions and engagement patterns to improve features and detect misuse.
+
+How We Use Your Information
+- Account Management: Used to create and maintain your profile and track reward progress.
+- KYC Compliance: Collected documents help ensure the authenticity of users and prevent fraudulent activities.
+- Reward Processing: UPI ID is used to transfer rewards after successful redemption.
+- Security: KYC helps us prevent unauthorized access and duplicate account abuse.
+- App Improvement: Usage data enables us to enhance performance, fix bugs, and introduce new features.
+- Customer Support: Your contact details help us respond to your queries and resolve issues.
+
+Use of Firebase Services
+Our app uses several Firebase services provided by Google LLC, including but not limited to:
+- Firebase Analytics: Collects anonymized app usage data to help us understand user behavior and improve app features.
+- Firebase Crashlytics: Helps identify and fix bugs by collecting information about app crashes and performance issues.
+- Firebase Cloud Messaging (FCM): Used to send push notifications regarding offers, updates, or account information.
+- Firebase Authentication: May be used to manage user sign-in and secure access to user-specific features.
+- Firebase Firestore: Used to store and retrieve dynamic user data, such as progress, offers, transactions, and other app-related content.
+- Firebase Storage: Used to store files uploaded by users or the app, such as KYC images, offer images, and reward claim proofs.
+
+Data collected via Firebase may include device identifiers, app usage patterns, crash data, and any user-submitted content. This data is processed securely in accordance with Firebase’s Privacy Policy and is never used to personally identify users.
+
+Data Retention
+We retain your personal data only for as long as necessary to provide services and comply with legal obligations. KYC and usage data may be stored securely for verification and audit purposes.
+
+Third-Party Sharing
+We do not sell or rent your personal information. Some non-personal, anonymized data may be shared with analytics providers to improve our services. Your KYC and UPI data are never shared with third parties except when required by law. Firebase services may collect and process data on our behalf in compliance with applicable data protection laws.
+
+Your Rights
+You have the right to access, update, or delete your personal data. To do so, you may contact our support team. However, please note that deleting critical data may prevent you from using parts of the app.
+
+Data Security
+We use encryption, secure servers, and other technical safeguards to protect your personal data from unauthorized access, alteration, or disclosure.
+
+Changes to This Policy
+We may revise this privacy policy from time to time. Updates will be reflected with a new effective date.

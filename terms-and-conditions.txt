@@ -1,0 +1,42 @@
+Terms & Conditions
+
+Effective Date: May 15, 2025
+
+Introduction
+By using this app, you agree to these Terms & Conditions. If you do not agree with any part of these terms, you must not use the app or its features.
+
+Eligibility
+- You must be at least 18 years old or have the consent of a legal guardian to use this app.
+- Each individual is allowed to maintain only one account. Multiple accounts may lead to permanent suspension.
+
+Fair Use Policy
+- The use of bots, emulators, VPNs, fake referrals, or any automated system is strictly prohibited.
+- Tasks must be completed manually as per instructions. Violations may result in reward denial or account ban.
+
+KYC & Verification
+- To prevent fraud, users may be required to submit valid KYC documents including PAN and Aadhaar.
+- Fake or mismatched KYC submissions will result in forfeiture of rewards and account restriction.
+
+Reward & Redemption Policy
+- Rewards can only be redeemed after meeting the minimum point threshold (e.g., 10,000 points).
+- Redemptions are processed via UPI and may take up to 7 business days for verification and completion.
+- We reserve the right to deny or delay redemption in case of suspicious activity or policy violations.
+
+Use of Firebase Services
+- We use Firebase Firestore to store and manage app content such as user progress, offers, and transactions.
+- Firebase Storage is used to securely store user-uploaded content, such as KYC documents and screenshots.
+- By using the app, you agree that your data may be processed and stored using Firebase services in accordance with our Privacy Policy.
+
+User Content Responsibility
+- You are solely responsible for the accuracy and legality of any content (e.g., KYC documents) you upload.
+- We reserve the right to reject, delete, or report content that violates legal requirements or our policies.
+
+Account Responsibility
+- You are responsible for maintaining the confidentiality of your login credentials and account activity.
+- Notify us immediately of any unauthorized use of your account or suspected breach of security.
+
+Limitations of Liability
+We do not guarantee uninterrupted access or flawless performance of the app. We are not responsible for technical errors, network issues, or losses resulting from user input or device problems.
+
+Changes to Terms
+These terms may be updated periodically. Continued use of the app after updates signifies your acceptance of the new terms.
