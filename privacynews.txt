@@ -1,0 +1,32 @@
+Privacy Policy – Top10 News
+Last updated: May 17, 2025
+
+Welcome to Top10 News. Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+1. Information We Collect
+We do not collect any personally identifiable information from users of our application. We may collect limited, non-personal data such as the state selection for content customization. This data is stored locally on your device and is not transmitted to our servers.
+
+2. How We Use Your Information
+The state selected by the user is used solely to fetch and display relevant news content. We do not use this information for analytics, marketing, or user tracking.
+
+3. News Content
+Top10 News does not claim ownership or authorship of any news content displayed within the app. All news articles are retrieved through a third-party news provider via an external public news API. We do not modify the original content and only display it as-is for informational purposes.
+
+The sources of this content remain confidential in this application, and are subject to their own copyright and content distribution policies.
+
+4. Internet Permissions
+The app uses internet permissions to fetch the latest news articles from external services. No personal data is transmitted or stored during this process.
+
+5. Data Security
+We take reasonable steps to protect user data within the app. Since no personal data is collected or stored externally, your privacy is inherently protected.
+
+6. Third-Party Services
+The app may contain links or previews to external websites. We are not responsible for the content or privacy practices of any third-party services.
+
+7. Changes to This Privacy Policy
+We may update this Privacy Policy periodically. Any changes will be reflected in this document and dated accordingly.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us via the support section of the app or by email at:
+jasmeen67114@gmail.com
+
